@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/amitgupta/Documents/workspace/Calculator/selenium-server-standalone-2.49.0.jar" sourcepath=""/>
+	<classpathentry kind="lib" path="/Users/amitgupta/Documents/workspace/Calculator/selenium-2.49.0/selenium-java-2.49.0.jar"/>
+	<classpathentry kind="lib" path="/Users/amitgupta/Documents/workspace/Calculator/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="/Users/amitgupta/Documents/workspace/Calculator/opencsv-3.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
